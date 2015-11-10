@@ -1,0 +1,2 @@
+# LEI Nº 2.218, de 6 de novembro de 2015 Altera a legislação que dispõe sobre a sistematização e o regramento de padrões urbanísticos, sanitários e ambientais para a instalação de estações de Rádio-Base (ERBs) e de mini-estações de Rádio-Base (Mini ERBs) de telefonia celular e de telecomunicações em geral no Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
