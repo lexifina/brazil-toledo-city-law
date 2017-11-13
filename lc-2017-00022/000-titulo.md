@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 22, de 10 de novembro de 2017 Altera a legislação que dispõe sobre a revisão e a reformulação do Plano Diretor Municipal - TOLEDO 2050 e que estabelece diretrizes e proposições para o planejamento, desenvolvimento e gestão do território do Município.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei Complementar:
