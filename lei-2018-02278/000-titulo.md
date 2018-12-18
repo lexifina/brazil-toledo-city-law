@@ -1,0 +1,2 @@
+# LEI Nº 2.278, de 17 de dezembro de 2018 Estabelece critérios para a qualificação como organizações sociais de pessoas jurídicas de direito privado, sem fins econômicos, cujas atividades sejam relacionadas com as áreas social, educacional, ambiental, de desenvolvimento científico e tecnológico, cultural, esportiva e de saúde.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
