@@ -1,0 +1,2 @@
+# LEI Nº 2.284, de 12 de abril de 2019 Dispõe sobre o ingresso de animais domésticos e de estimação para visitação de pacientes internados em hospitais da rede pública e privada, contratados e conveniados que integram o Sistema Único de Saúde (SUS), no Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
