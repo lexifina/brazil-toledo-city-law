@@ -1,0 +1,2 @@
+# LEI Nº 2.340, de 30 de junho de 2021 Institui o Regime de Previdência Complementar (RPC) no âmbito do Município de Toledo, fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o artigo 40 da Constituição Federal e autoriza a adesão do Município a plano de benefícios de previdência complementar.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal aprovou e o Prefeito Municipal em seu nome, sanciona a seguinte Lei:
