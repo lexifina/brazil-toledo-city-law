@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 26, de 23 de dezembro de 2021 Altera a Lei Complementar nº 14, de 2009, que institui tratamento diferenciado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte, no âmbito do Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei Complementar:
