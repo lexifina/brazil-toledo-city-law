@@ -1,0 +1,2 @@
+# LEI Nº 2.393, de 14 de março de 2022 Dispõe sobre o procedimento para a instalação no Município de Toledo de infraestruturas de suporte para Estação Transmissora de Radiocomunicação - ETR e equipamentos afins, autorizados e homologados pela Agência Nacional de Telecomunicações - ANATEL.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
