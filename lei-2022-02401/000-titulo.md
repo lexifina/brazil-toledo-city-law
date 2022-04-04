@@ -1,0 +1,2 @@
+# LEI Nº 2.401, de 4 de abril de 2022 Revoga leis que dispõem sobre autorização para aquisição de vacinas contra a Covid-19 pelo Município de Toledo e sobre ratificação de protocolo de intenções firmado entre Municípios brasileiros, com a finalidade de constituir consórcio para a aquisição de vacinas para combate à pandemia do coronavírus, medicamentos, insumos e equipamentos na área da saúde.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
