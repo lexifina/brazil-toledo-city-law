@@ -1,0 +1,2 @@
+# LEI Nº 2.424, de 3 de maio de 2022 Autoriza o Executivo municipal a custear despesas residuais de energia elétrica e de água e esgoto de unidades de condomínios habitacionais de idosos em situação de vulnerabilidade social, implantados pelo Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
