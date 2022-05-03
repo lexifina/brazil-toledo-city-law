@@ -1,0 +1,2 @@
+# LEI Nº 2.425, de 3 de maio de 2022 Autoriza o Executivo municipal a cumprir acordo firmado em processo judicial, procede à desafetação e autoriza a permuta de imóvel integrante do patrimônio público municipal e à afetação do bem a ser recebido pelo Município.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
