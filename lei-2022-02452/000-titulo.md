@@ -1,0 +1,2 @@
+# LEI Nº 2.452, de 22 de junho de 2022 Concede isenção de tributos municipais relativos à implantação das unidades habitacionais de interesse social no Loteamento "Prefeito Egon Pudell", nesta cidade, visando à implementação de metas da política de habitação popular.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
