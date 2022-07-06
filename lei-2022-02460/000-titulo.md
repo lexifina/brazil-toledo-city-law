@@ -1,0 +1,2 @@
+# LEI Nº 2.460, de 5 de julho de 2022 Autoriza o Município de Toledo a repassar, através do Fundo Municipal dos Direitos da Criança e do Adolescente, recursos financeiros a Organizações da Sociedade Civil, sem fins lucrativos, que atendem crianças e adolescentes no Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
