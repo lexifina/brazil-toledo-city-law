@@ -1,0 +1,2 @@
+# LEI Nº 2.476, de 9 de agosto de 2022 Altera o Plano de Amortização do déficit atuarial do Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de Toledo (FAPES), que integra a legislação que dispõe sobre o regime próprio de previdência dos servidores públicos do Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
