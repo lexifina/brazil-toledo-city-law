@@ -1,0 +1,2 @@
+# LEI Nº 2.506, de 25 de outubro de 2022 Procede à desafetação e autoriza a doação de imóvel integrante do patrimônio público municipal à Companhia de Habitação do Paraná (COHAPAR) e autoriza o Executivo municipal a conceder incentivos fiscais, visando à implementação de metas da política de habitação popular.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
