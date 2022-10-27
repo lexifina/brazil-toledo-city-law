@@ -1,0 +1,2 @@
+# LEI Nº 2.507, de 25 de outubro de 2022 Altera a legislação que procede à desafetação e autoriza a alienação de imóveis integrantes do patrimônio público municipal e que autoriza o Executivo municipal a firmar convênios e a conceder incentivos fiscais visando à implementação de metas da política de habitação popular.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
