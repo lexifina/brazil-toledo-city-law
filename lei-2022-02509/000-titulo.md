@@ -1,0 +1,2 @@
+# LEI Nº 2.509, de 3 de novembro de 2022 Altera a legislação que autorizou o Município de Toledo a outorgar a concessão administrativa de uso de imóvel à Cooperativa de Agricultores Familiares de Toledo (COFATOL) e fixa novo prazo para o cumprimento de encargo pela concessionária.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
