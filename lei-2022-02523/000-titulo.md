@@ -1,0 +1,2 @@
+# LEI Nº 2.523, de 5 de dezembro de 2022 Autoriza o Executivo municipal a outorgar a concessão administrativa de uso, a título oneroso, mediante licitação, de áreas em parques, praças e outros logradouros públicos do Município para a construção e exploração de quiosques comerciais ou o desenvolvimento de atividades de lazer e entretenimento.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
