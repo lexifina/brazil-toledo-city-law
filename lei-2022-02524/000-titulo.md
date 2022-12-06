@@ -1,0 +1,2 @@
+# LEI Nº 2.524, de 6 de dezembro de 2022 Altera a legislação que instituiu o Programa "Toledo+Dignidade" e que autorizou o Executivo municipal a conceder o Benefício Eventual Auxílio-Alimentação, através de transferência de renda para famílias em situação de vulnerabilidade social.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
