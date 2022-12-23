@@ -1,0 +1,2 @@
+# LEI Nº 2.539, de 23 de dezembro de 2022 Dispõe sobre a implementação do Programa de Apoio à Alimentação, por meio do Programa Municipal de Aquisição de Alimentos Direto do Agricultor Familiar, visando ao atendimento de Organizações da Sociedade Civil que executam Serviços Socioassistenciais no Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
