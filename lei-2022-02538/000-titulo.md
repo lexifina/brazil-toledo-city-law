@@ -1,0 +1,2 @@
+# LEI Nº 2.538, de 23 de dezembro de 2022 Procede à desafetação e autoriza a venda de bens imóveis de propriedade do Município de Toledo, situados no Loteamento Residencial "Prefeito Egon Pudell", aos beneficiários do Grupo Urbano - GUrb - 1 e 2 do Programa Casa Verde e Amarela - Fundo de Garantia por Tempo de Serviço - FGTS, ou seu sucedâneo, tendo como agente financeiro a Caixa Econômica Federal - CAIXA.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
