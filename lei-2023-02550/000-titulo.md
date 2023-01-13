@@ -1,0 +1,2 @@
+# LEI Nº 2.550, de 9 de janeiro de 2023 Dispõe sobre o direito das pessoas com deficiência física, mental, intelectual, sensorial ou com transtorno de ingressar e permanecer em locais públicos ou privados de uso coletivo acompanhadas de cão de apoio emocional.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
