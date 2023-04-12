@@ -1,0 +1,2 @@
+# LEI Nº 2.571, de 11 de abril de 2023 Autoriza o Executivo municipal a outorgar concessão, a título oneroso, mediante licitação, para a instalação, manutenção e utilização, para exploração publicitária, de elementos do mobiliário urbano no Município de Toledo.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
