@@ -1,0 +1,2 @@
+# LEI Nº 2.573, de 11 de abril de 2023 Autoriza o Município de Toledo a executar a remoção e o transporte de entulhos e demais serviços complementares, para atender famílias, microempreendedores individuais, microempresas e empresas de pequeno porte, cujos imóveis tenham sido atingidos por sinistro.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
