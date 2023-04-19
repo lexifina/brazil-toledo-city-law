@@ -1,0 +1,2 @@
+# LEI Nº 2.576, de 18 de abril de 2023 Autoriza o Município de Toledo a utilizar recursos próprios para pagamento de valores de responsabilidade do Fundo Nacional de Desenvolvimento da Educação - FNDE, relativos aos Termos de Compromisso nºs 6789/2013 e 7005/2013.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
