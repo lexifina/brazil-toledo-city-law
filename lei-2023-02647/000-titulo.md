@@ -1,0 +1,2 @@
+# LEI Nº 2.647, de 29 de agosto de 2023 Altera a denominação do Programa "Casamento Coletivo no Civil" para Programa "Casamento Coletivo Cidadão" e modifica a legislação que dispôs sobre a sua institucionalização e que estabeleceu critérios para a sua execução.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
