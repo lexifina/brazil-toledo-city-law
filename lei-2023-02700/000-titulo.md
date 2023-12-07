@@ -1,0 +1,2 @@
+# LEI Nº 2.700, de 6 de dezembro de 2023 Autoriza o Executivo municipal a cumprir obrigações assumidas em acordo para indenização de área destinada à abertura do prolongamento da Rua Coroa do Norte, visando à interligação dos bairros Jardim Concórdia e Jardim Porto Alegre com os bairros Vila Operária e Vila Pioneiro, nesta cidade.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
