@@ -1,0 +1,2 @@
+# LEI Nº 2.701, de 6 de dezembro de 2023 Altera a legislação que autoriza o Município de Toledo a custear despesas com a realização de exames laboratoriais requisitados em procedimentos de averiguação oficiosa de paternidade ou em processos judiciais de investigação de paternidade ou maternidade.
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
