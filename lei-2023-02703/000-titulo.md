@@ -1,0 +1,2 @@
+# LEI Nº 2.703, de 12 de dezembro de 2023 Procede à desafetação e autoriza a alienação de bens imóveis integrantes do patrimônio público municipal, visando à implementação de políticas de incentivo à industrialização, através do Programa "Toledoé+Negócio!".
+O POVO DO MUNICÍPIO DE TOLEDO, por seus representantes na Câmara Municipal, aprovou e o Prefeito Municipal, em seu nome, sanciona a seguinte Lei:
