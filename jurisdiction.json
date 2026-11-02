@@ -1,0 +1,9 @@
+{
+  "path": "br-pr-toledo",
+  "code": "BR-PR-TOLEDO",
+  "name": "Toledo (city)",
+  "level": "municipality",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-toledo-city-law",
+  "build": "built: the law of Toledo from the Câmara Municipal's SAPL"
+}
