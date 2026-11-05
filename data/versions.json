@@ -2184,6 +2184,2078 @@
      "sha256": "81add30d27cfb8bee379c00fcfd5ad13b7c6b76f64caa31b0c6e2f9778feca31"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-02507",
+   "short": "Lei 2507/2022",
+   "title": "Lei nº 2.507, de 25 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2352",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2352/lei_g_2.507.2022.pdf",
+     "sha256": "fe51e2ea5356b2a74b54aa1d69dce44eea4122a99e7452794d9d41d5bf4c07fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02506",
+   "short": "Lei 2506/2022",
+   "title": "Lei nº 2.506, de 25 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2351",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 10,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2351/lei_g_2.506.2022.pdf",
+     "sha256": "1396a172e59ae0a4766a969578b3fe7cdc50a555ed13624ed7e3295594f15976"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02505",
+   "short": "Lei 2505/2022",
+   "title": "Lei nº 2.505, de 25 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2350",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2350/lei_g_2.505.2022.pdf",
+     "sha256": "c89a83f1e72ab25e02d5796de5356ba97a29fc10d340bde060d1e00af7c20782"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02503",
+   "short": "Lei 2503/2022",
+   "title": "Lei nº 2.503, de 22 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2348",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2348/lei_g_2.503.2022.pdf",
+     "sha256": "333d17efc92b2b9bb9391260b5dc9a21d5292cad19c8e5407056f58127825ac5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02502",
+   "short": "Lei 2502/2022",
+   "title": "Lei nº 2.502, de 18 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2347",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2347/lei_g_2.502.2022.pdf",
+     "sha256": "90693665d2cff730462ffa26ee0d9e61ac807123657c64f80fa0dd028b846a02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02500",
+   "short": "Lei 2500/2022",
+   "title": "Lei nº 2.500, de 11 de outubro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2345",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2345/lei_g_2.500.2022.pdf",
+     "sha256": "49a7591548c1e1aea4f87a573433fcc3c9c18fede4d637da6363bd506f5571e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02495",
+   "short": "Lei 2495/2022",
+   "title": "Lei nº 2.495, de 27 de setembro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2340",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 38,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2340/lei_g_2.495.2022.pdf",
+     "sha256": "8c20109bef0513caa19eef919af37cd6e795b7417cb35d4c8b583bf2a255a1e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02494",
+   "short": "Lei 2494/2022",
+   "title": "Lei nº 2.494, de 19 de setembro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2339",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2339/lei_g_2.494.2022.pdf",
+     "sha256": "99a4c72dc7f08f58bd1357adcf42f63ed0c0e3748d06cf98dcbfb1537953bc38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02490",
+   "short": "Lei 2490/2022",
+   "title": "Lei nº 2.490, de 12 de setembro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2333",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2333/lei_g_2.490.2022.pdf",
+     "sha256": "c797d23d3d0812cebb00fcf9afc649aa188d328e950c5ae49db74df2612e120e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02486",
+   "short": "Lei 2486/2022",
+   "title": "Lei nº 2.486, de 6 de setembro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2327",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2327/lei_g_2.486.2022.pdf",
+     "sha256": "411c3ae27cada5845241cce4c4378f5fb15ebceb1f2a8839ec93b3a440fc76a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02485",
+   "short": "Lei 2485/2022",
+   "title": "Lei nº 2.485, de 5 de setembro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2326",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2326/lei_g_2.485.2022.pdf",
+     "sha256": "15446ddc3bba668f39f8d8a72fa842d8d02ab7ead4add7970b0a318eec0a1869"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02484",
+   "short": "Lei 2484/2022",
+   "title": "Lei nº 2.484, de 31 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2324",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2324/lei_g_2.484.2022.pdf",
+     "sha256": "34336555750b43f70917ac4edf1c4614eb278f1e63b73ff8eb147e88178d9a15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02483",
+   "short": "Lei 2483/2022",
+   "title": "Lei nº 2.483, de 31 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2323",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2323/lei_g_2.483.2022.pdf",
+     "sha256": "3b54f49fbbd0d287b8787deb22ef6f91756562714756701e58d7276ccde7a869"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02482",
+   "short": "Lei 2482/2022",
+   "title": "Lei nº 2.482, de 31 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2322",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2322/lei_g_2.482.2022.pdf",
+     "sha256": "d3089375b12f6258859cb04e3e93b43b2e4fb42c96c99a208309f550eae1c740"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02480",
+   "short": "Lei 2480/2022",
+   "title": "Lei nº 2.480, de 23 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2320",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2320/lei_g_2.480.2022.pdf",
+     "sha256": "7d44db6ea21869b659505a832d97eba71b0017c04582eb8847dc93b1ea64952f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02479",
+   "short": "Lei 2479/2022",
+   "title": "Lei nº 2.479, de 16 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2316",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2316/lei_g_2.479.2022.pdf",
+     "sha256": "184c34d6fdac5bd452cba46efb1abbfc37c07ba3585fbbb882cad529cb85065b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02477",
+   "short": "Lei 2477/2022",
+   "title": "Lei nº 2.477, de 16 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2314",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2314/lei_g_2.477.2022.pdf",
+     "sha256": "939a0b46a4f894ad923d25cbb8dae1e8cd60135362cd752fcdc00720dec5bd1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02476",
+   "short": "Lei 2476/2022",
+   "title": "Lei nº 2.476, de 10 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2312",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2312/lei_g_2.476.2022.pdf",
+     "sha256": "fc16d3a79ce552639fbdbe3c92cc6e489d527b24845ac63af99d59ca377c7c17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02474",
+   "short": "Lei 2474/2022",
+   "title": "Lei nº 2.474, de 2 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2310",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2310/lei_g_2.474.2022.pdf",
+     "sha256": "a88cefd0b6b1ddef78f7495a38b63609c3c617a846c9fe1924e646214120fd30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02473",
+   "short": "Lei 2473/2022",
+   "title": "Lei nº 2.473, de 2 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2309",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2309/lei_g_2.473.2022.pdf",
+     "sha256": "abfb7adf4fc7b655ca834d5043cc853fe3c52cf0e456b1a31ac6da6aa28c6f45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02471",
+   "short": "Lei 2471/2022",
+   "title": "Lei nº 2.471, de 2 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2307",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2307/lei_g_2.471.2022.pdf",
+     "sha256": "c266b8ffbdac99795f4ded819cedaf98789fd6ff90fd99570340de7bcea10ee1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02470",
+   "short": "Lei 2470/2022",
+   "title": "Lei nº 2.470, de 1 de agosto de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2306",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 13,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2306/lei_g_2.470.2022.pdf",
+     "sha256": "23c76c79fd4204c3fd36a120188daa0730e5b1b7ca918d4f838f39b3bc5a0d98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02469",
+   "short": "Lei 2469/2022",
+   "title": "Lei nº 2.469, de 25 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2305",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 9,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2305/lei_g_2.469.2022.pdf",
+     "sha256": "3972b8cf31c8ae2f16aa941ebc6a45d8fdd2fcb5836576d77c5df1511bd90919"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02465",
+   "short": "Lei 2465/2022",
+   "title": "Lei nº 2.465, de 12 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2301",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2301/lei_g_2.465.2022.pdf",
+     "sha256": "40a808bdaf5e3f284a799d26ba68f835df1b2ec93943eda8e93e941ebfacc918"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02464",
+   "short": "Lei 2464/2022",
+   "title": "Lei nº 2.464, de 11 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2300",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2300/lei_g_2.464.2022.pdf",
+     "sha256": "a38f2dcded61a9800da40713953038fe454eb75382733519bbfbbb5b9197b25b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02463",
+   "short": "Lei 2463/2022",
+   "title": "Lei nº 2.463, de 11 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2299",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2299/lei_g_2.463.2022.pdf",
+     "sha256": "93d45fbf36b33836ff50af4cb05c4a609a97ddc54e936132036c4e784974c48a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02462",
+   "short": "Lei 2462/2022",
+   "title": "Lei nº 2.462, de 8 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2297",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2297/lei_g_2.462.2022.pdf",
+     "sha256": "4614091b1f8720b0bdbf4cc29c9434856fadd44513322605ea73a948db6cb5c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02461",
+   "short": "Lei 2461/2022",
+   "title": "Lei nº 2.461, de 5 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2296",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2296/lei_g_2.461.2022.pdf",
+     "sha256": "10bbdf921e01c2ef3fc82527df83a8bd2329b142208cce02c6ee5f9f6712448f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02460",
+   "short": "Lei 2460/2022",
+   "title": "Lei nº 2.460, de 5 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2295",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2295/lei_g_2.460.2022.pdf",
+     "sha256": "a6ec9eeb09575fe063859963e8ffbe68e53cccc98e77f2d167e1a41941780bd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02459",
+   "short": "Lei 2459/2022",
+   "title": "Lei nº 2.459, de 4 de julho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2293",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2293/lei_g_2.459.2022.pdf",
+     "sha256": "f989acfa30c08c5708de500eae80311c399bdeedabc912bbd0001b17747f88ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02455",
+   "short": "Lei 2455/2022",
+   "title": "Lei nº 2.455, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2289",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2289/lei_g_2.455.2022.pdf",
+     "sha256": "fdbe83b79fb82c96a3b8dda82be2b49752fb7eea829345e4843a45b74081a38f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02454",
+   "short": "Lei 2454/2022",
+   "title": "Lei nº 2.454, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2288",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2288/lei_g_2.454.2022.pdf",
+     "sha256": "14dad84d99d14d75ff4d3742a259566061dfa18cc64ecbe6e2c49a3af174708e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02453",
+   "short": "Lei 2453/2022",
+   "title": "Lei nº 2.453, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2287",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2287/lei_g_2.453.2022.pdf",
+     "sha256": "8f54437b68e3d33b9df55850559a484bfa3cd9d6042ac63018faf3dfcc86f680"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02452",
+   "short": "Lei 2452/2022",
+   "title": "Lei nº 2.452, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2286",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2286/lei_g_2.452.2022.pdf",
+     "sha256": "de914c808852719f6220ac4ab0e30974b4ae90b2443d83b4d10ed3631d546cfd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02451",
+   "short": "Lei 2451/2022",
+   "title": "Lei nº 2.451, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2285",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2285/lei_g_2.451.2022.pdf",
+     "sha256": "b378f846d6e9a9656a9ebae3ab6aea17ca835325bc691a9be4d312194be9b547"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02450",
+   "short": "Lei 2450/2022",
+   "title": "Lei nº 2.450, de 22 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2284",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2284/lei_g_2.450.2022.pdf",
+     "sha256": "dc4951436b1b7084fe6059aebe24dadd77fa1c4c4945972e61120854dd9f2890"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02446",
+   "short": "Lei 2446/2022",
+   "title": "Lei nº 2.446, de 13 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2279",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2279/lei_g_2.446.2022.pdf",
+     "sha256": "fbb5142d747e95b0d61f66e3b85963764bb9f09f9fe36a5aaa267c10f6e9105a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02445",
+   "short": "Lei 2445/2022",
+   "title": "Lei nº 2.445, de 13 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2278",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2278/lei_g_2.445.2022.pdf",
+     "sha256": "8d4f3233019c5cc243d1d5e49baa032a4b297a41e291bccc0640ea24e4046d9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02443",
+   "short": "Lei 2443/2022",
+   "title": "Lei nº 2.443, de 10 de junho de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2276",
+   "versions": [
+    {
+     "from": "2022-06-13",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2276/lei_g_2.443.2022.pdf",
+     "sha256": "2e888ae462f0d1aeea0ac8cf468b66f8ffb5041bf962d03f02fca6f98ffa3785"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02441",
+   "short": "Lei 2441/2022",
+   "title": "Lei nº 2.441, de 31 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2274",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2274/lei_g_2.441.2022.pdf",
+     "sha256": "66be70ad9e76a5831fab229a6e9346fefc29d27cae8e2584ef4ef921b884b9e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02439",
+   "short": "Lei 2439/2022",
+   "title": "Lei nº 2.439, de 30 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2272",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2272/lei_g_2.439.2022.pdf",
+     "sha256": "a8e7b313101682d8b8e32590a39c38bc9828141014231fd7cd36ef6365e4c791"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02438",
+   "short": "Lei 2438/2022",
+   "title": "Lei nº 2.438, de 27 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2271",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2271/lei_g_2.438.2022.pdf",
+     "sha256": "17d07c8148061aad3b58f292d04046d7b60ffa0ef7a08aba855876fc9da982d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02437",
+   "short": "Lei 2437/2022",
+   "title": "Lei nº 2.437, de 26 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2270",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2270/lei_g_2.437.2022.pdf",
+     "sha256": "8bf462d2d3c76bf0368f2c25072db2ea17d295892bc85d6d4d5b8388aa3d1931"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02435",
+   "short": "Lei 2435/2022",
+   "title": "Lei nº 2.435, de 23 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2268",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2268/lei_g_2.435.2022.pdf",
+     "sha256": "60b3580b4af73072d8ffd347fefa6133bf80586267c5e9b75511aae8f75f57d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02434",
+   "short": "Lei 2434/2022",
+   "title": "Lei nº 2.434, de 18 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2267",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2267/lei_g_2.434.2022.pdf",
+     "sha256": "a249fd0ec60eb408c8a88b55dfbbc392fe23db40012e01cc496a54f76a981c80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02432",
+   "short": "Lei 2432/2022",
+   "title": "Lei nº 2.432, de 16 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2265",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2265/lei_g_2.432.2022.pdf",
+     "sha256": "eb9cdb40a6cf892fc350375bab290a78bf3f93ac0bc03535f0aa329a451f2997"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02431",
+   "short": "Lei 2431/2022",
+   "title": "Lei nº 2.431, de 16 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2264",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2264/lei_g_2.431.2022.pdf",
+     "sha256": "cad1dcd2437fe20844ea0f9a9fa4781bb8d1040ce661cd952fe769f835dfeafd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02430",
+   "short": "Lei 2430/2022",
+   "title": "Lei nº 2.430, de 10 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2263",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2263/lei_g_2.430.2022.pdf",
+     "sha256": "188a4bc75e243a4989a63eea99560f48e6bf8787520d2144aebe5a97f868e133"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02429",
+   "short": "Lei 2429/2022",
+   "title": "Lei nº 2.429, de 10 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2262",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2262/lei_g_2.429.2022.pdf",
+     "sha256": "d5d83a35b7b26bca71cc91af6c8a7678980818f3f0d5408d03c47e275e386b7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02428",
+   "short": "Lei 2428/2022",
+   "title": "Lei nº 2.428, de 10 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2261",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2261/lei_g_2.428.2022.pdf",
+     "sha256": "1d8f1e83b0644c92b928ba3e56143ce2a81a7a9f5c20d4ab90ceed07012cc0aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02427",
+   "short": "Lei 2427/2022",
+   "title": "Lei nº 2.427, de 10 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2260",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2260/lei_g_2.427.2022.pdf",
+     "sha256": "d2ba8940cea1f3c352991c6a3db70b9b378bf2ba2ed86562a22816a14de3083a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02426",
+   "short": "Lei 2426/2022",
+   "title": "Lei nº 2.426, de 10 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2259",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2259/lei_g_2.426.2022.pdf",
+     "sha256": "520fc052c4f1aa188bb3b0767266dd0133d88b62db08e3b3bd3d6aac935ee676"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02425",
+   "short": "Lei 2425/2022",
+   "title": "Lei nº 2.425, de 3 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2258",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2258/lei_g_2.425.2022.pdf",
+     "sha256": "f11f3f0d439f64cf9309de97821d1ef807334bdf346d0c7ce26cc31b0b7403f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02424",
+   "short": "Lei 2424/2022",
+   "title": "Lei nº 2.424, de 3 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2257",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2257/lei_g_2.424.2022.pdf",
+     "sha256": "293e00197722bbf6e801d8f4ae5440fdd912a0566b4f3acd7f03c6b46d755fc7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02423",
+   "short": "Lei 2423/2022",
+   "title": "Lei nº 2.423, de 3 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2256",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2256/lei_g_2.423.2022.pdf",
+     "sha256": "9ae6050f23d129284ab413f821889bb42a3441acd69ec5973fed2c805699eae1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02421",
+   "short": "Lei 2421/2022",
+   "title": "Lei nº 2.421, de 2 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2254",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2254/lei_g_2.421.2022.pdf",
+     "sha256": "5db6ed67867ac42463f21db72c8972ec1fa217733a2afced87eecc11f161a9ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02420",
+   "short": "Lei 2420/2022",
+   "title": "Lei nº 2.420, de 2 de maio de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2253",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2253/lei_g_2.420.2022.pdf",
+     "sha256": "48e99879b02b2f0a91f4d3de7508b51009cec19936909d554da770e53bad78e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02419",
+   "short": "Lei 2419/2022",
+   "title": "Lei nº 2.419, de 26 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2252",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2252/lei_g_2.419.2022.pdf",
+     "sha256": "b4acdba06727e4bd0d7e54959249a6ebd579eafd445bacfc1a9cce09215d50a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02418",
+   "short": "Lei 2418/2022",
+   "title": "Lei nº 2.418, de 26 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2251",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2251/lei_g_2.418.2022.pdf",
+     "sha256": "7638d56b585c8aa09fb6721685ab4b5b7552f3116827cfbdc2ef116df3b2ec64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02417",
+   "short": "Lei 2417/2022",
+   "title": "Lei nº 2.417, de 22 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2250",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 10,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2250/lei_g_2.417.2022.pdf",
+     "sha256": "f6e3753cd3cfc91e406793f895dc1e49f40f5170ada699070411ab45bfac2f3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02416",
+   "short": "Lei 2416/2022",
+   "title": "Lei nº 2.416, de 22 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2249",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 11,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2249/lei_g_2.416.2022.pdf",
+     "sha256": "c743edec05705a21e847c702efcc1734964e5fcfed1b2dc06702539cb55ba3c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02415",
+   "short": "Lei 2415/2022",
+   "title": "Lei nº 2.415, de 22 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2248",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2248/lei_g_2.415.2022.pdf",
+     "sha256": "9fd233a6b0d8ff4f49523c6ce541dbe4aff39c65acee5d37005a3b2a09495327"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02414",
+   "short": "Lei 2414/2022",
+   "title": "Lei nº 2.414, de 19 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2247",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2247/lei_g_2.414.2022.pdf",
+     "sha256": "c600cc88aa2159b279fab3c870939b7d0e235aeb637ed370bf00cc1a4e3d786c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02412",
+   "short": "Lei 2412/2022",
+   "title": "Lei nº 2.412, de 12 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2245",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 61,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2245/lei_g_2.412.2022.pdf",
+     "sha256": "c50b25eae1f30426eb0bf8658c7b7285c28f9ada15a59043ea0bb17da4bd6202"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02411",
+   "short": "Lei 2411/2022",
+   "title": "Lei nº 2.411, de 12 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2244",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2244/lei_g_2.411.2022.pdf",
+     "sha256": "9ddd7a96b51dbff12b95c9d31c853a7e3c5ef3394fa7af0c79e3aac4b61bbaf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02410",
+   "short": "Lei 2410/2022",
+   "title": "Lei nº 2.410, de 11 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2243",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2243/lei_g_2.410.2022.pdf",
+     "sha256": "5c6f3a5a7d069cc2b7f4c8ab0467f4f796184c4b84f7b1920168e2bb5c08adf4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02409",
+   "short": "Lei 2409/2022",
+   "title": "Lei nº 2.409, de 11 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2242",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2242/lei_g_2.409.2022.pdf",
+     "sha256": "a66b5946e9b8fe7a9e7996bee0bb6504a6b10324b86bc9085ae78e022389c4f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02408",
+   "short": "Lei 2408/2022",
+   "title": "Lei nº 2.408, de 11 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2241",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2241/lei_g_2.408.2022.pdf",
+     "sha256": "2c320b297a1148f2ab3ca138bb8e937830805fedd6b6e8868106d732405d5d10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02405",
+   "short": "Lei 2405/2022",
+   "title": "Lei nº 2.405, de 4 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2238",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 9,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2238/lei_g_2.405.2022.pdf",
+     "sha256": "11e33cf299d4bb8e46673fb88785436dac11b02eed73f576b8e819e31494f356"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02404",
+   "short": "Lei 2404/2022",
+   "title": "Lei nº 2.404, de 4 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2237",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2237/lei_g_2.404.2022.pdf",
+     "sha256": "328daaaa0c0a4da41290dd7478ae3e9303c4e0304c3f2c9efdf1f6800f824b5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02403",
+   "short": "Lei 2403/2022",
+   "title": "Lei nº 2.403, de 4 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2236",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2236/lei_g_2.403.2022.pdf",
+     "sha256": "3746ce718d738f8350c296eb8adaaa8e044de78966cdc41d21cc8e1f40986aea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02402",
+   "short": "Lei 2402/2022",
+   "title": "Lei nº 2.402, de 4 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2235",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2235/lei_g_2.402.2022.pdf",
+     "sha256": "ff48d0309d7a670be5624aa56959e3b7035e994cf68bbb2a3b49b4becca2f667"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02401",
+   "short": "Lei 2401/2022",
+   "title": "Lei nº 2.401, de 4 de abril de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2234",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2234/lei_g_2.401.2022.pdf",
+     "sha256": "d9f27e659d224000fecef98998c32efb47be6876be24b91236cfbb2d69576290"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02400",
+   "short": "Lei 2400/2022",
+   "title": "Lei nº 2.400, de 28 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2231",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2231/lei_g_2.400.2022.pdf",
+     "sha256": "eb7c56cc40b4efdcf017e563710e5fa24b930af2321b80f2fb68af2755c4c4f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02399",
+   "short": "Lei 2399/2022",
+   "title": "Lei nº 2.399, de 28 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2230",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2230/lei_g_2.3299.2022.pdf",
+     "sha256": "cdebb2239973c9657ccc1fc5f2e35db73a2d17d03f9532c580bb0607e0ce9c0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02398",
+   "short": "Lei 2398/2022",
+   "title": "Lei nº 2.398, de 28 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2229",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2229/lei_g_2.3298.2022.pdf",
+     "sha256": "27df6005ffe67ce841acfbd09dd44f1602b2f7854209d160e1861a0f58a594b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02397",
+   "short": "Lei 2397/2022",
+   "title": "Lei nº 2.397, de 28 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2228",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2228/lei_g_2.3297.2022.pdf",
+     "sha256": "17bfe0ff703867a4c0ab00cb163048a426a6dea076a50dfe8678c1f1e5766389"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02396",
+   "short": "Lei 2396/2022",
+   "title": "Lei nº 2.396, de 28 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2227",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2227/lei_g_2.3296.2022.pdf",
+     "sha256": "67a9c4132c4c4a0b7a790640b221beaaec55b61678833c9877c63ab5936e1149"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02395",
+   "short": "Lei 2395/2022",
+   "title": "Lei nº 2.395, de 26 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2226",
+   "versions": [
+    {
+     "from": "2022-03-26",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2226/lei_g_2.395.2022.pdf",
+     "sha256": "8ff60e53c61ffb9f6f4c7595018829757c5b56363d02e8353c9ae140f6427886"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02394",
+   "short": "Lei 2394/2022",
+   "title": "Lei nº 2.394, de 22 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2225",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2225/lei_g_2.3294.2022.pdf",
+     "sha256": "f706ebd8ac66722e8965d9cb634c54f2dd5002356a06063814b415468556e79d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02393",
+   "short": "Lei 2393/2022",
+   "title": "Lei nº 2.393, de 14 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2221",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 28,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2221/lei_g_2.3293.2022.pdf",
+     "sha256": "e1bd2d79b7f6b42b94f218c7246d01cb210f89b552b34cb0bf0de700ab44268f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02392",
+   "short": "Lei 2392/2022",
+   "title": "Lei nº 2.392, de 8 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2220",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 43,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2220/lei_g_2.3292.2022.pdf",
+     "sha256": "a0ba1594fa75e2875410ef57e2832a997eeab7a4a9f46169fa0e35cd655e3be5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02391",
+   "short": "Lei 2391/2022",
+   "title": "Lei nº 2.391, de 8 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2219",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2219/lei_g_2.3291.2022.pdf",
+     "sha256": "7b997e95a0a4c3ccff1672beb5255bd0c8b384cbcf48a13600d18b7121958981"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02390",
+   "short": "Lei 2390/2022",
+   "title": "Lei nº 2.390, de 8 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2218",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2218/lei_g_2.3290.2022.pdf",
+     "sha256": "76ccd7c403bab212626663950957a894feb3d03b0728f7e06ca93392a40a999f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02389",
+   "short": "Lei 2389/2022",
+   "title": "Lei nº 2.389, de 8 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2217",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2217/lei_g_2.3289.2022.pdf",
+     "sha256": "5e8eadb23882f402257936676e9c733f84273b4ebe73b8e9743b0387b4076677"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02388",
+   "short": "Lei 2388/2022",
+   "title": "Lei nº 2.388, de 8 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2215",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2215/lei_g_2.3288.2022.pdf",
+     "sha256": "a89aba3035704a1703b6361df864b7c97fdc38c0ebcfaa7adcaec7fde43bd7a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02387",
+   "short": "Lei 2387/2022",
+   "title": "Lei nº 2.387, de 4 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2214",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2214/lei_g_2.3287.2022.pdf",
+     "sha256": "ad76a5055230f28f6bbd3609f09f6fc919ab9b50d7787940907f36dfb0cbcd53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02385",
+   "short": "Lei 2385/2022",
+   "title": "Lei nº 2.385, de 3 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2211",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2211/lei_g_2.3285.2022.pdf",
+     "sha256": "e10161610f9c6dbdd9f11d737a281d8b4863ceef871240cb1226fb1d330f3e3e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02384",
+   "short": "Lei 2384/2022",
+   "title": "Lei nº 2.384, de 3 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2210",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 8,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2210/lei_g_2.3284.2022.pdf",
+     "sha256": "568807e43fe3a7d55225ead07a1b84cf5c78d3bc2df4b82fa6bb7f50d94f08cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02383",
+   "short": "Lei 2383/2022",
+   "title": "Lei nº 2.383, de 3 de março de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2209",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2209/lei_g_2.3283.2022.pdf",
+     "sha256": "67c7c3619a7e4eadacb97e1311c9646c213381f0f31c0053441a7ca8f4e5b18a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02382",
+   "short": "Lei 2382/2022",
+   "title": "Lei nº 2.382, de 22 de fevereiro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2206",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2206/lei_g_2.3282.2022.pdf",
+     "sha256": "a45a56f3d4fd9222c99b00331651fb0ef1dba9d819322e14084f17b601d8efeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02381",
+   "short": "Lei 2381/2022",
+   "title": "Lei nº 2.381, de 15 de fevereiro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2205",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2205/lei_g_2.381.2022.pdf",
+     "sha256": "37863fdb791e32baa819505d27172b6f5786dea34388c0d9a5944dc55d783f24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02380",
+   "short": "Lei 2380/2022",
+   "title": "Lei nº 2.380, de 15 de fevereiro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2204",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 15,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2204/lei_g_2.380.2022.pdf",
+     "sha256": "90f5728b233f1b51aeda142eca7edf2146c1f4ebef3a76469cb592ab45fbe141"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00028",
+   "short": "LC 28/2022",
+   "title": "Lei Complementar nº 28, de 15 de fevereiro de 2022",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2212",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2022/2212/lei_c_28.2022.pdf",
+     "sha256": "71a9feb6aa305cd337f702e0064d8429a1d66b5b6c15dee7ed1b0f497f3cb68d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02377",
+   "short": "Lei 2377/2021",
+   "title": "Lei nº 2.377, de 27 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2174",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2174/lei_g_2377.2021.pdf",
+     "sha256": "bac46e1f2707b89c230f80c6af9b87649a3eef27ea147bada9f985fb3a978555"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02376",
+   "short": "Lei 2376/2021",
+   "title": "Lei nº 2.376, de 27 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2173",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2173/lei_g_2376.2021.pdf",
+     "sha256": "cf9ef0811f82ab578074e147f58321fb68b9237efbd2233f678e97eec6931c3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02375",
+   "short": "Lei 2375/2021",
+   "title": "Lei nº 2.375, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2172",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2172/lei_g_2375.2021.pdf",
+     "sha256": "e975385ae0f33319cfd4a5ace3b8933f5ae06b5ebb675f102eecf731e3c4ad53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02372",
+   "short": "Lei 2372/2021",
+   "title": "Lei nº 2.372, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2169",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 32,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2169/lei_g_2372.2021.pdf",
+     "sha256": "ed82423dfd28410e36ddbc4ed9ac70b07d626e11842a8b172d809188cad68fe7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02370",
+   "short": "Lei 2370/2021",
+   "title": "Lei nº 2.370, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2167",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2167/lei_g_2370.2021.pdf",
+     "sha256": "e432ab96f03621c48dadc5473ca6f9b6e8748f6d76aa13c224726e3bb7d7beba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02369",
+   "short": "Lei 2369/2021",
+   "title": "Lei nº 2.369, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2166",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 261,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2166/lei_g_2369.2021.pdf",
+     "sha256": "1937dc01ef176c4437d2f009566ebdc6a7119aee3a61eb2b199b814a8a67c654"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02368",
+   "short": "Lei 2368/2021",
+   "title": "Lei nº 2.368, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2165",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 216,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2165/lei_g_2368.2021.pdf",
+     "sha256": "57dd48dc51bbe68866ac825a1bfb6c23e619029361cbc709478dba554e08bc76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02366",
+   "short": "Lei 2366/2021",
+   "title": "Lei nº 2.366, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2163",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 94,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2163/lei_g_2366.2021.pdf",
+     "sha256": "60e841d8d5dcec1df3cc4305b511623acab3bbe79990bcc15e3dae51d31c87a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02362",
+   "short": "Lei 2362/2021",
+   "title": "Lei nº 2.362, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1922",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1922/lei_g_2362.2021.pdf",
+     "sha256": "687b75aaf566116706e2f8badac3b227e912a91b0d05b224140a2dd3d40b19ab"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00026",
+   "short": "LC 26/2021",
+   "title": "Lei Complementar nº 26, de 23 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/2156",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/2156/lei_c_26.2021.pdf",
+     "sha256": "c0f10aa123be99d01789dd53c2f57c7295ace8229b2c6308803677e4468bc0c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02361",
+   "short": "Lei 2361/2021",
+   "title": "Lei nº 2.361, de 15 de dezembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1914",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 47,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1914/lei_g_2361.2021.pdf",
+     "sha256": "dfc40d94833ddd9e873cb2297d711f1512ed53f4d5b241814f8bf53e845ace2b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02358",
+   "short": "Lei 2358/2021",
+   "title": "Lei nº 2.358, de 30 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1900",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1900/lei_g_2358.2021.pdf",
+     "sha256": "d9db4040a16055846a234c1eaae3c7893138fb4d523ae18b7fdaabb0444f5668"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02357",
+   "short": "Lei 2357/2021",
+   "title": "Lei nº 2.357, de 30 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1899",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1899/lei_g_2357.2021.pdf",
+     "sha256": "9095c6982813e6a4d838766d2d6788fb5954cb1e17cb84a7aa3cf6fd213c7771"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02356",
+   "short": "Lei 2356/2021",
+   "title": "Lei nº 2.356, de 17 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1890",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 21,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1890/lei_g_2356.2021.pdf",
+     "sha256": "a769f2952cf899dbf1526970281d168d84031d7f8431fa2845e121b1ae677da1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02355",
+   "short": "Lei 2355/2021",
+   "title": "Lei nº 2.355, de 17 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1889",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 9,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1889/lei_g_2355.2021.pdf",
+     "sha256": "2b75aa895cbc7dc79dcc590c47d3ba68e0f249363b888d1bf14d18149f57a070"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02354",
+   "short": "Lei 2354/2021",
+   "title": "Lei nº 2.354, de 17 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1888",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1888/lei_g_2354.2021.pdf",
+     "sha256": "c62a388fe61b3d756fb837342c1d4ac6860d270dd52b81c38be2ee965e481e81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02353",
+   "short": "Lei 2353/2021",
+   "title": "Lei nº 2.353, de 4 de novembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1884",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1884/lei_g_2353.2021.pdf",
+     "sha256": "b2253c37671c31d650c7cdd3ee27ffd4a22b4abadd9218ebf79922bcf56f2797"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02352",
+   "short": "Lei 2352/2021",
+   "title": "Lei nº 2.352, de 26 de outubro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1883",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1883/lei_g_2352.pdf",
+     "sha256": "a4811ef81098af405e7845a7ec6e2d3d627284b0a9a04e01b2722471982a19c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02350",
+   "short": "Lei 2350/2021",
+   "title": "Lei nº 2.350, de 22 de setembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1865",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 11,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1865/lei_g_2350.pdf",
+     "sha256": "9d216a6868fff886ce675195cc5bb571a8b3d6b587d0ad93c4200ace7dc350e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02349",
+   "short": "Lei 2349/2021",
+   "title": "Lei nº 2.349, de 14 de setembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1864",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 9,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1864/lei_g_2349.pdf",
+     "sha256": "0713e956a8fe86673e3581f28f20135d3a3c8fa863d401152f559073400b0873"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02348",
+   "short": "Lei 2348/2021",
+   "title": "Lei nº 2.348, de 3 de setembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1857",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 13,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1857/lei_g_2.348.2021.pdf",
+     "sha256": "43aa04da3feaf23800f1366612f068cdbcd4473cda62551660e655fa98b2e7e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02347",
+   "short": "Lei 2347/2021",
+   "title": "Lei nº 2.347, de 1 de setembro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1853",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 27,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1853/lei_g_2347.2021.pdf",
+     "sha256": "29de89417e9dced97f6daba47d3dbb9d4cd2fcada738060ba103c03834a94b04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02346",
+   "short": "Lei 2346/2021",
+   "title": "Lei nº 2.346, de 15 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1750",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1750/lei_g_2346.2021.pdf",
+     "sha256": "699981d010f470a31b5e1b47355faaea715539fa26f6b4ac133629fa5254d1e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02345",
+   "short": "Lei 2345/2021",
+   "title": "Lei nº 2.345, de 15 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1749",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1749/lei_g_2345.2021.pdf",
+     "sha256": "528554f2ff246d30a6b188bd09b16245386739c8ea9c25d4b9b784a4f51aa023"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02344",
+   "short": "Lei 2344/2021",
+   "title": "Lei nº 2.344, de 15 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1748",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 11,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1748/lei_g_2344.2021.pdf",
+     "sha256": "5eb1006ee0dd599cd88136cb8b38ffeeefc218d1ecba231b45d9d1458bf00c48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02343",
+   "short": "Lei 2343/2021",
+   "title": "Lei nº 2.343, de 13 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1747",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1747/lei_g_2343.2021.pdf",
+     "sha256": "e248341349ceea0095f90411878850867dbc22833b670f0ffcb9f9f476c06343"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02342",
+   "short": "Lei 2342/2021",
+   "title": "Lei nº 2.342, de 13 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1744",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 18,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1744/lei_g_2.342.2021.pdf",
+     "sha256": "cc1935c3013efd93d459d18c678ffc449a13eb5353feee2d5d06923ad04a4bd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02341",
+   "short": "Lei 2341/2021",
+   "title": "Lei nº 2.341, de 12 de julho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1741",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 11,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1741/lei_g_2.341.2021.pdf",
+     "sha256": "a74a09f47e529a1c9d8a3b4ac71cb039f2e31ebb32f58c2a84255f81f9dd7484"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02340",
+   "short": "Lei 2340/2021",
+   "title": "Lei nº 2.340, de 30 de junho de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1735",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 22,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1735/lei_g_2340.2021.pdf",
+     "sha256": "70004ad5f3dcf7a07c060546e272b1f49a075f2df083e24a3546de96ef7a6d3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02339",
+   "short": "Lei 2339/2021",
+   "title": "Lei nº 2.339, de 11 de maio de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1719",
+   "versions": [
+    {
+     "from": "2021-06-13",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1719/lei_g_2339.2021.pdf",
+     "sha256": "9fc51c39a5e9d6de3a32e5a4693a6258e5e1201b7ed0dfef943a78217d5d0e7b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02338",
+   "short": "Lei 2338/2021",
+   "title": "Lei nº 2.338, de 4 de maio de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1711",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1711/lei_g_2338.2021.pdf",
+     "sha256": "73aa7956c9676a77aa5fc3e6ff94c30298887b1a3fcd8c1ad91325d524a055ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02337",
+   "short": "Lei 2337/2021",
+   "title": "Lei nº 2.337, de 4 de maio de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1710",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1710/lei_g_2337.2021.pdf",
+     "sha256": "93ecf70b31926e274c69bb9558afc29a8633b443a71b97782069ce6c7f27d9d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02336",
+   "short": "Lei 2336/2021",
+   "title": "Lei nº 2.336, de 22 de abril de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1702",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1702/lei_g_2336.2021.pdf",
+     "sha256": "a74dbb43f37e0fdab6ab178c51fa91e561a745b5149811eeae38e0a5c8425ac4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02335",
+   "short": "Lei 2335/2021",
+   "title": "Lei nº 2.335, de 14 de abril de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1701",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 13,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1701/lei_g_2335.2021.pdf",
+     "sha256": "2bb1e7ad95d8c296a3375746b9727e6fa9b43f437fe7d7cbfcc5f56816175702"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00024",
+   "short": "LC 24/2021",
+   "title": "Lei Complementar nº 24, de 30 de março de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1703",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1703/lei_complementar_no_24.2021.pdf",
+     "sha256": "71453006f06275e4f0d45cd21d90ca4c45bb9489cf7009334cdc2416cc4e93e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02334",
+   "short": "Lei 2334/2021",
+   "title": "Lei nº 2.334, de 22 de março de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1700",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1700/lei_g_2334.2021.pdf",
+     "sha256": "9fd323d5a562a6884bde814c43063bb97cadd94d40fcb8bb50144698ca6b84aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02333",
+   "short": "Lei 2333/2021",
+   "title": "Lei nº 2.333, de 7 de janeiro de 2021",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1668",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2021/1668/lei_g_2333.2021.pdf",
+     "sha256": "53e3a42c25e56c7f1e81b87470c6e83e5d184b6a43d21c6cfd36183845d06bab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02332",
+   "short": "Lei 2332/2020",
+   "title": "Lei nº 2.332, de 22 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1665",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1665/lei_g_2332.2020.pdf",
+     "sha256": "ee26c14f661be9c9c3afe45e673007f98a87b3b67482b036451c31bba4832345"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02331",
+   "short": "Lei 2331/2020",
+   "title": "Lei nº 2.331, de 22 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1664",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 13,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1664/lei_g_2331.2020.pdf",
+     "sha256": "f0384392ca6a17b6440a7a2c98b4c8c76248ad2743f97edc6aa6c718c13b6d5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02330",
+   "short": "Lei 2330/2020",
+   "title": "Lei nº 2.330, de 22 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1663",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 14,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1663/lei_g_2330.2020.pdf",
+     "sha256": "d646a4ee29107ed6a71494deaea980e8c7bb1e17a4fc24a980b879fc4cd0958f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02329",
+   "short": "Lei 2329/2020",
+   "title": "Lei nº 2.329, de 22 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1662",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1662/lei_g_2329.2020.pdf",
+     "sha256": "31c9cbd527c2c5305856d4b3514a4608c4bfd9359b3c2f2426e0c223812ed551"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02328",
+   "short": "Lei 2328/2020",
+   "title": "Lei nº 2.328, de 22 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1660",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1660/lei_g_2328.2020.pdf",
+     "sha256": "22a5838da2ef806445c119934906e7f9b89d44635569450005e80bafdc0776b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02327",
+   "short": "Lei 2327/2020",
+   "title": "Lei nº 2.327, de 17 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1659",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 14,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1659/lei_g_2327.2020.pdf",
+     "sha256": "a4a21700b6c45b8f10050ab6deb0ff9860576ed1bd9bbba1eaa97800236a3dc4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02326",
+   "short": "Lei 2326/2020",
+   "title": "Lei nº 2.326, de 9 de dezembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1642",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1642/lei_g_2326.2020.pdf",
+     "sha256": "89da0c58c637110ffd59c76b4332c7f8099005aaf7c86af2e6beda03b474f4a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02325",
+   "short": "Lei 2325/2020",
+   "title": "Lei nº 2.325, de 3 de novembro de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1631",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1631/lei_g_2325.2020.pdf",
+     "sha256": "956af64b38c963a18b62a1fffe938b12a09c310f26ecc815c1cfbaf21fb406c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02324",
+   "short": "Lei 2324/2020",
+   "title": "Lei nº 2.324, de 11 de agosto de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1599",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1599/lei_g_2324.2020.pdf",
+     "sha256": "84e565869dec46d4930bdc251b3b716a40c7d12673b7f53677b09ce3c0e9816c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02323",
+   "short": "Lei 2323/2020",
+   "title": "Lei nº 2.323, de 1 de julho de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1581",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 53,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1581/lei_g_2323.2020.pdf",
+     "sha256": "1c22952556b332d90ad65b76e8ba626767496a714bd22d1aa9bcc8999746b30c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02322",
+   "short": "Lei 2322/2020",
+   "title": "Lei nº 2.322, de 22 de junho de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1580",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1580/lei_g_2322.2020.pdf",
+     "sha256": "b5c3260f522ee81b4e0c9e67296cb5e7039da81d7e43b2d1bf635823e744ea6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02321",
+   "short": "Lei 2321/2020",
+   "title": "Lei nº 2.321, de 2 de junho de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1566",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1566/lei_g_2321.2020.pdf",
+     "sha256": "c8dcc338b5e3bad0941c8ded4924304c20a98905887575ab86847af03c206af8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02319",
+   "short": "Lei 2319/2020",
+   "title": "Lei nº 2.319, de 29 de abril de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1556",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1556/lei_g_2319.2020.pdf",
+     "sha256": "ea12584ddbaccce0be87ff6723c7dbb15c10d55ddaa75c862108af58bb92ef5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02318",
+   "short": "Lei 2318/2020",
+   "title": "Lei nº 2.318, de 24 de abril de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1555",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1555/lei_g_2318.2020.pdf",
+     "sha256": "8db4651c62e527c22cfca1906dcfe1bd8bfcd4241aab86dc1073fb7ee9ad6cb3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02317",
+   "short": "Lei 2317/2020",
+   "title": "Lei nº 2.317, de 7 de abril de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1554",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 7,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1554/lei_g_2317.2020.pdf",
+     "sha256": "45929ca6a00079c7dac3b057f74a54bc4269daed10e43dfec335273959cf0258"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02316",
+   "short": "Lei 2316/2020",
+   "title": "Lei nº 2.316, de 7 de abril de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1553",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1553/lei_g_2316.2020.pdf",
+     "sha256": "ce289422daebe5c5ca3487ff63776547abe68df87ad58ceb82f644b3fced9917"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02315",
+   "short": "Lei 2315/2020",
+   "title": "Lei nº 2.315, de 7 de abril de 2020",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1552",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2020/1552/lei_g_2315.2020.pdf",
+     "sha256": "1e9413beaf4261988045bbcc747d64b3d869d4f7fca6f57b55b25a3666e9109f"
+    }
+   ]
   }
  ]
 }
