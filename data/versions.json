@@ -5488,6 +5488,622 @@
      "sha256": "44f058e17a72f469db4207b8e5c163debd0cd016a00ae3d988352e0d11513e55"
     }
    ]
+  },
+  {
+   "slug": "lei-2015-02219",
+   "short": "Lei 2219/2015",
+   "title": "Lei nº 2.219, de 23 de dezembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/726",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/726/726_texto_integral.pdf",
+     "sha256": "dfcd4beeada59370f930dd893dd3d451f647cb325a6f4fc6ec433ac95de0523e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02218",
+   "short": "Lei 2218/2015",
+   "title": "Lei nº 2.218, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/797",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/797/797_texto_integral.pdf",
+     "sha256": "b6a2b5b11bf0df6d5bfb682ff9b11735b1c0683e54f190caad89e6c1d769510c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02217",
+   "short": "Lei 2217/2015",
+   "title": "Lei nº 2.217, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/796",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/796/796_texto_integral.pdf",
+     "sha256": "2fdc17893f1cc968cf08cc32bc4fdbda4bfaa816cd81c578ebbae95dae29fca8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02216",
+   "short": "Lei 2216/2015",
+   "title": "Lei nº 2.216, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/795",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/795/795_texto_integral.pdf",
+     "sha256": "0134e11b78f6e5818beeb5c69d677516dcb7183b0c7cf1d956fd1729313b90a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02215",
+   "short": "Lei 2215/2015",
+   "title": "Lei nº 2.215, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/792",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/792/792_texto_integral.pdf",
+     "sha256": "d5556cfba0eae5f8d0b16440a0557a15596bd518ea99d8205220e22923959392"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02214",
+   "short": "Lei 2214/2015",
+   "title": "Lei nº 2.214, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/791",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/791/791_texto_integral.pdf",
+     "sha256": "fe29ece4af2fa3fa9592d8a4699e06f3b69627c98241fb2b05c0172662b3ce7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02213",
+   "short": "Lei 2213/2015",
+   "title": "Lei nº 2.213, de 6 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/790",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/790/790_texto_integral.pdf",
+     "sha256": "28798f737e4cb310532be981f8ca6fdf0c8e0bcf55c158b0e8058d42c35fde63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02212",
+   "short": "Lei 2212/2015",
+   "title": "Lei nº 2.212, de 5 de novembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/785",
+   "versions": [
+    {
+     "from": "2015-11-09",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/785/785_texto_integral.pdf",
+     "sha256": "46e005120d82cb146f80ea08fbe15c425bf1363455688e958cf4c92ee78523bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02211",
+   "short": "Lei 2211/2015",
+   "title": "Lei nº 2.211, de 20 de outubro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/780",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/780/780_texto_integral.pdf",
+     "sha256": "dbf7cd585090d5e9e9628c1e21f32693bd9ee0073f922d5641dea08133c83d17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02210",
+   "short": "Lei 2210/2015",
+   "title": "Lei nº 2.210, de 16 de setembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/700",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 14,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/700/700_texto_integral.pdf",
+     "sha256": "3d3e5bb13fbae4b775429d058aa5da852440f56627146b635d5ba8711485a854"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02209",
+   "short": "Lei 2209/2015",
+   "title": "Lei nº 2.209, de 10 de setembro de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/693",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/693/693_texto_integral.pdf",
+     "sha256": "4965e23a65ebd4dc6561b9bf5089889e0bbd7515d1f0c0c97679238502f3b8a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02207",
+   "short": "Lei 2207/2015",
+   "title": "Lei nº 2.207, de 20 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/673",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/673/673_texto_integral.pdf",
+     "sha256": "e2f477e1d940c7abd38914e78736388f244e32f3c958234a18ddd814883c1225"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02206",
+   "short": "Lei 2206/2015",
+   "title": "Lei nº 2.206, de 15 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/644",
+   "versions": [
+    {
+     "from": "2015-07-20",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/644/644_texto_integral.pdf",
+     "sha256": "d2f6da413f24cbb42a7c7d0cdaadee458eb5bb11a16decf138e32c2b47709ba2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02205",
+   "short": "Lei 2205/2015",
+   "title": "Lei nº 2.205, de 15 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/660",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/660/660_texto_integral.pdf",
+     "sha256": "8f110b4dc683c8ed9071b0a04e38af76f092d02ba068435badaf1a563985704d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02204",
+   "short": "Lei 2204/2015",
+   "title": "Lei nº 2.204, de 15 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/663",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 6,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/663/663_texto_integral.pdf",
+     "sha256": "4eab344e871837e32c6695a4000412edcc9ef628e8f9d20470dfe75876b79323"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02202",
+   "short": "Lei 2202/2015",
+   "title": "Lei nº 2.202, de 13 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/642",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/642/642_texto_integral.pdf",
+     "sha256": "29712e53025c6022b2f6235a0d4995f57bdcfdf288afd235d738634902b1240c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02201",
+   "short": "Lei 2201/2015",
+   "title": "Lei nº 2.201, de 13 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/641",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/641/641_texto_integral.pdf",
+     "sha256": "29a7910f5c35147ff1d71cdf976b0f6cb78fe342ab4b243eab79b3e7d2efc9b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02200",
+   "short": "Lei 2200/2015",
+   "title": "Lei nº 2.200, de 8 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/637",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 12,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/637/637_texto_integral.pdf",
+     "sha256": "716bbdede9474b9b3248c0cab84786add5287e49657c414e2f2b56d13503cc43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02199",
+   "short": "Lei 2199/2015",
+   "title": "Lei nº 2.199, de 8 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/633",
+   "versions": [
+    {
+     "from": "2015-07-14",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/633/633_texto_integral.pdf",
+     "sha256": "bb57fce9e35158ad9dc0304e0b5bef573c42c06dc91c73f1e7b828d04ab6aead"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02198",
+   "short": "Lei 2198/2015",
+   "title": "Lei nº 2.198, de 8 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/638",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 14,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/638/638_texto_integral.pdf",
+     "sha256": "c274907fbd1d7c249c30052783c7e9ebef3dffad0bdb92de786f4629bf77021d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02197",
+   "short": "Lei 2197/2015",
+   "title": "Lei nº 2.197, de 8 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/636",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/636/636_texto_integral.pdf",
+     "sha256": "6e463b7ed4de2ac16aeb04a7f1c59e5e6dfc345cb1f1594285dd9d96542b2177"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02196",
+   "short": "Lei 2196/2015",
+   "title": "Lei nº 2.196, de 1 de julho de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/640",
+   "versions": [
+    {
+     "from": "2015-07-02",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/640/640_texto_integral.pdf",
+     "sha256": "d1ce8462ee720c995c4100f985103f3979cd58bdf9601db4c45b8af4f0668504"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02193",
+   "short": "Lei 2193/2015",
+   "title": "Lei nº 2.193, de 13 de maio de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/601",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/601/601_texto_integral.pdf",
+     "sha256": "00b769443edb69b07f65be8e9bc2f8e6e76405044034faa6d49b07b71cc6e7d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02192",
+   "short": "Lei 2192/2015",
+   "title": "Lei nº 2.192, de 28 de abril de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/596",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/596/596_texto_integral.pdf",
+     "sha256": "f46557544ab3a925adec6a04349198d4614773f680fa1b9690d45ae1da9dcfb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02191",
+   "short": "Lei 2191/2015",
+   "title": "Lei nº 2.191, de 17 de abril de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/565",
+   "versions": [
+    {
+     "from": "2015-04-20",
+     "units": 22,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/565/565_texto_integral.pdf",
+     "sha256": "7c5b201eb775fe5685dbed60230ed2ec066e6d60d5953b6658563676c81cb877"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02190",
+   "short": "Lei 2190/2015",
+   "title": "Lei nº 2.190, de 17 de março de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/543",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/543/543_texto_integral.pdf",
+     "sha256": "639f8c321b0f861f9519f8485b3f40aecc7bfe78380fbb8c7299055f594dac69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02189",
+   "short": "Lei 2189/2015",
+   "title": "Lei nº 2.189, de 13 de março de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/548",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 15,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/548/548_texto_integral.pdf",
+     "sha256": "8b102916b27d8cfb9af29484b86afc4d2e31a18486bb5fd81ea1fdd0000002c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02188",
+   "short": "Lei 2188/2015",
+   "title": "Lei nº 2.188, de 10 de março de 2015",
+   "url": "https://sapl.toledo.pr.leg.br/norma/541",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2015/541/541_texto_integral.pdf",
+     "sha256": "d39899eb9803665940210c7d4625987f63eb9e54fb02485ade3ba5db64fc831f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02187",
+   "short": "Lei 2187/2014",
+   "title": "Lei nº 2.187, de 29 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/375",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 37,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/375/375_texto_integral.pdf",
+     "sha256": "907da0acff0610e27fd4c90923424cae34193dc67217d08de81237c12225d328"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02186",
+   "short": "Lei 2186/2014",
+   "title": "Lei nº 2.186, de 19 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/365",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 12,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/365/365_texto_integral.pdf",
+     "sha256": "222eaecfdc17b03e242ebd2ad173b7ad5cbf40a7233c8dc0e4919167d0487644"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02185",
+   "short": "Lei 2185/2014",
+   "title": "Lei nº 2.185, de 19 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/374",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/374/374_texto_integral.pdf",
+     "sha256": "97d963a720a0f29782d1ce4fc419aaf1bec02571e63a1e33225d62852e5a3b27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02184",
+   "short": "Lei 2184/2014",
+   "title": "Lei nº 2.184, de 19 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/373",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/373/373_texto_integral.pdf",
+     "sha256": "8642984fdc6a46a5a50b34554aaedb504c2d03831fa3b77c65e1dec2a8c43bee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02183",
+   "short": "Lei 2183/2014",
+   "title": "Lei nº 2.183, de 12 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/368",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/368/368_texto_integral.pdf",
+     "sha256": "4b3755bf6f5f405eee0ee145cdd1a5a061026b416ef6a664d2460cb0d1170b63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02181",
+   "short": "Lei 2181/2014",
+   "title": "Lei nº 2.181, de 2 de dezembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/350",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/350/350_texto_integral.pdf",
+     "sha256": "d3e2cf1cb733811583e8104ab6e600e9a8bde60092f2b66619afd67c8e107155"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02180",
+   "short": "Lei 2180/2014",
+   "title": "Lei nº 2.180, de 9 de outubro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/315",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/315/315_texto_integral.pdf",
+     "sha256": "e4330ef0457f2c82ea652e07640defd5534b5ff6e6a4e2c33ce1ff15a218af28"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02179",
+   "short": "Lei 2179/2014",
+   "title": "Lei nº 2.179, de 30 de setembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/314",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/314/314_texto_integral.pdf",
+     "sha256": "85fa14acd9eed519fa5cb0aefad8a63a6be511bfc486c03bed235445809e3305"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02178",
+   "short": "Lei 2178/2014",
+   "title": "Lei nº 2.178, de 16 de setembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/289",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/289/289_texto_integral.pdf",
+     "sha256": "e0fa9d45beb439e8b7a72d1b5247920784aaa03d3b6748d31d234b0e3b9d3208"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02177",
+   "short": "Lei 2177/2014",
+   "title": "Lei nº 2.177, de 2 de setembro de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/272",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/272/272_texto_integral.pdf",
+     "sha256": "5d6ca25f5a27a65c9ef3b2305e0c22b225480b46eb3d77a3010278fce3d8ea12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02176",
+   "short": "Lei 2176/2014",
+   "title": "Lei nº 2.176, de 26 de agosto de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/258",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/258/258_texto_integral.pdf",
+     "sha256": "9df8cbdd77fc7575bd7b664e2e2847d174cd8ecfbbea83ec616b800ed85476e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02175",
+   "short": "Lei 2175/2014",
+   "title": "Lei nº 2.175, de 19 de agosto de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/246",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/246/246_texto_integral.pdf",
+     "sha256": "bb0bdb03bcc38e0e7e8f590e8ec83f494dc5cfa8f50b658d1532050d6e341bd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02174",
+   "short": "Lei 2174/2014",
+   "title": "Lei nº 2.174, de 19 de agosto de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/247",
+   "versions": [
+    {
+     "from": "2014-08-21",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/247/247_texto_integral.pdf",
+     "sha256": "7e19641a1b2dc0b47c7176dc9f18e90609ca60faf04cdeec5149d9b629d32926"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00017",
+   "short": "LC 17/2014",
+   "title": "Lei Complementar nº 17, de 8 de julho de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/154",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/154/154_texto_integral.pdf",
+     "sha256": "9a5a9dd9ce9fd4bee5406ba4f5c571d1d4c00211ad09eb0280342bd0c6866f63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02173",
+   "short": "Lei 2173/2014",
+   "title": "Lei nº 2.173, de 1 de julho de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/123",
+   "versions": [
+    {
+     "from": "2014-07-03",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/123/123_texto_integral.pdf",
+     "sha256": "75abab928febc4f1dc13ecf2453627e50eb2aa3bd5bd906e606258910de7f077"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02171",
+   "short": "Lei 2171/2014",
+   "title": "Lei nº 2.171, de 25 de junho de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/120",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 12,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/120/120_texto_integral.pdf",
+     "sha256": "0eec1f9b08c337932f60ab92b83a5553207c4c70e2cf7e5322c1ecfd56b29222"
+    }
+   ]
   }
  ]
 }
