@@ -6104,6 +6104,118 @@
      "sha256": "0eec1f9b08c337932f60ab92b83a5553207c4c70e2cf7e5322c1ecfd56b29222"
     }
    ]
+  },
+  {
+   "slug": "lei-2014-02170",
+   "short": "Lei 2170/2014",
+   "title": "Lei nº 2.170, de 15 de maio de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/82",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/82/82_texto_integral.pdf",
+     "sha256": "12acf81f2a40591d52231ab85d3d8db2ffac8b1ef7ce5096b4a229eaff14ee20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02169",
+   "short": "Lei 2169/2014",
+   "title": "Lei nº 2.169, de 15 de maio de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/81",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/81/81_texto_integral.pdf",
+     "sha256": "7efd3003dde6f906e666eb0ba1d73d6742f2663282c46f046a5dcc445e92daa9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02168",
+   "short": "Lei 2168/2014",
+   "title": "Lei nº 2.168, de 29 de abril de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/68",
+   "versions": [
+    {
+     "from": "2014-05-05",
+     "units": 22,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/68/68_texto_integral.pdf",
+     "sha256": "14d3e06472533268e11e6850d922db6fb730812f17377b38e65b2bca505a1d69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02167",
+   "short": "Lei 2167/2014",
+   "title": "Lei nº 2.167, de 23 de abril de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/62",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/62/62_texto_integral.pdf",
+     "sha256": "6323e4f7ce333f7bde45fb9066b95393608dd9fe7a94dcd892decabdf750374f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02166",
+   "short": "Lei 2166/2014",
+   "title": "Lei nº 2.166, de 16 de abril de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/70",
+   "versions": [
+    {
+     "from": "2014-04-22",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/70/70_texto_integral.pdf",
+     "sha256": "329688de71232ffeb4f1ed7e2e9b98d2d2d9beae650deacc85ad16175e2dadb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02165",
+   "short": "Lei 2165/2014",
+   "title": "Lei nº 2.165, de 11 de março de 2014",
+   "url": "https://sapl.toledo.pr.leg.br/norma/24",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2014/24/24_texto_integral.pdf",
+     "sha256": "f44889916fb6b9f3e8b79d8c4f6cf8272c537d43a2b73227766f1ec3be5bbe55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02119",
+   "short": "Lei 2119/2013",
+   "title": "Lei nº 2.119, de 18 de janeiro de 2013",
+   "url": "https://sapl.toledo.pr.leg.br/norma/331",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 5,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2013/331/331_texto_integral.pdf",
+     "sha256": "5759526e230ecf861076df2ac0c2e5b0b704ae79ad9158e37b41f8e7beb7613b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-02008",
+   "short": "Lei 2008/2009",
+   "title": "Lei nº 2.008, de 14 de setembro de 2009",
+   "url": "https://sapl.toledo.pr.leg.br/norma/1451",
+   "versions": [
+    {
+     "from": "2009-09-16",
+     "units": 4,
+     "source_url": "https://sapl.toledo.pr.leg.br/media/sapl/public/normajuridica/2009/1451/lei_g_no_2008_de_14_de_setembro_de_2009.pdf",
+     "sha256": "1fb78b5493e4e48251fd081cf42fec43879363901e6f638714f4416def2f543f"
+    }
+   ]
   }
  ]
 }

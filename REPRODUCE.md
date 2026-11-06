@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -460,20 +461,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2014-00017` | Lei Complementar nº 17, de 8 de julho de 2014 | 1 | 2014-07-10 to 2014-07-10 |
 | `lei-2014-02173` | Lei nº 2.173, de 1 de julho de 2014 | 1 | 2014-07-03 to 2014-07-03 |
 | `lei-2014-02171` | Lei nº 2.171, de 25 de junho de 2014 | 1 | 2014-07-01 to 2014-07-01 |
+| `lei-2014-02170` | Lei nº 2.170, de 15 de maio de 2014 | 1 | 2014-05-16 to 2014-05-16 |
+| `lei-2014-02169` | Lei nº 2.169, de 15 de maio de 2014 | 1 | 2014-05-20 to 2014-05-20 |
+| `lei-2014-02168` | Lei nº 2.168, de 29 de abril de 2014 | 1 | 2014-05-05 to 2014-05-05 |
+| `lei-2014-02167` | Lei nº 2.167, de 23 de abril de 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `lei-2014-02166` | Lei nº 2.166, de 16 de abril de 2014 | 1 | 2014-04-22 to 2014-04-22 |
+| `lei-2014-02165` | Lei nº 2.165, de 11 de março de 2014 | 1 | 2014-03-14 to 2014-03-14 |
+| `lei-2013-02119` | Lei nº 2.119, de 18 de janeiro de 2013 | 1 | 2013-01-22 to 2013-01-22 |
+| `lei-2009-02008` | Lei nº 2.008, de 14 de setembro de 2009 | 1 | 2009-09-16 to 2009-09-16 |
 
-The build made 436 commits:
+The build made 444 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 436 | first version of an act |
+| 444 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 436 laws in the record.
-- 872 tags.
+- 444 laws in the record.
+- 888 tags.
 
 ## Dates
 
@@ -485,18 +494,21 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `dc8eb165aad327cce57a9571a93a4e24cee2f0e581b2f60164a512a9d440113c` (3468225 bytes).
+- Corpus: sha256 `15da427e0f08268cea7c21d0421ed331ea33650cb8bcb46a07e2230767d034c7` (3501103 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-436 versions of 436 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
@@ -540,6 +552,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
