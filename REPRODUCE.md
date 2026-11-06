@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Toledo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.toledo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Toledo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.toledo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -372,20 +373,62 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2018-02267` | Lei nº 2.267, de 14 de agosto de 2018 | 1 | 2018-08-16 to 2018-08-16 |
 | `lei-2018-02266` | Lei nº 2.266, de 10 de julho de 2018 | 1 | 2018-07-12 to 2018-07-12 |
 | `lei-2018-02265` | Lei nº 2.265, de 9 de julho de 2018 | 1 | 2018-07-11 to 2018-07-11 |
+| `lei-2018-02264` | Lei nº 2.264, de 4 de julho de 2018 | 1 | 2018-07-06 to 2018-07-06 |
+| `lei-2018-02263` | Lei nº 2.263, de 26 de junho de 2018 | 1 | 2018-06-29 to 2018-06-29 |
+| `lei-2018-02262` | Lei nº 2.262, de 6 de junho de 2018 | 1 | 2018-06-08 to 2018-06-08 |
+| `lei-2018-02261` | Lei nº 2.261, de 6 de junho de 2018 | 1 | 2018-06-07 to 2018-06-07 |
+| `lei-2018-02260` | Lei nº 2.260, de 24 de maio de 2018 | 1 | 2018-06-01 to 2018-06-01 |
+| `lei-2018-02259` | Lei nº 2.259, de 16 de maio de 2018 | 1 | 2018-05-18 to 2018-05-18 |
+| `lei-2018-02258` | Lei nº 2.258, de 25 de abril de 2018 | 1 | 2018-04-26 to 2018-04-26 |
+| `lei-2018-02256` | Lei nº 2.256, de 10 de abril de 2018 | 1 | 2018-04-12 to 2018-04-12 |
+| `lei-2018-02255` | Lei nº 2.255, de 4 de abril de 2018 | 1 | 2018-04-05 to 2018-04-05 |
+| `lei-2018-02254` | Lei nº 2.254, de 27 de março de 2018 | 1 | 2018-03-28 to 2018-03-28 |
+| `lei-2018-02253` | Lei nº 2.253, de 27 de março de 2018 | 1 | 2018-03-28 to 2018-03-28 |
+| `lei-2017-02251` | Lei nº 2.251, de 21 de dezembro de 2017 | 1 | 2017-12-26 to 2017-12-26 |
+| `lei-2017-02250` | Lei nº 2.250, de 7 de dezembro de 2017 | 1 | 2017-12-08 to 2017-12-08 |
+| `lei-2017-02249` | Lei nº 2.249, de 30 de novembro de 2017 | 1 | 2017-12-01 to 2017-12-01 |
+| `lei-2017-02248` | Lei nº 2.248, de 30 de novembro de 2017 | 1 | 2017-12-01 to 2017-12-01 |
+| `lei-2017-02247` | Lei nº 2.247, de 10 de novembro de 2017 | 1 | 2017-11-13 to 2017-11-13 |
+| `lei-2017-02246` | Lei nº 2.246, de 10 de novembro de 2017 | 1 | 2017-11-13 to 2017-11-13 |
+| `lei-2017-02245` | Lei nº 2.245, de 10 de novembro de 2017 | 1 | 2017-11-13 to 2017-11-13 |
+| `lc-2017-00022` | Lei Complementar nº 22, de 10 de novembro de 2017 | 1 | 2017-11-13 to 2017-11-13 |
+| `lei-2017-02244` | Lei nº 2.244, de 7 de novembro de 2017 | 1 | 2017-11-08 to 2017-11-08 |
+| `lei-2017-02242` | Lei nº 2.242, de 11 de outubro de 2017 | 1 | 2017-10-13 to 2017-10-13 |
+| `lei-2017-02241` | Lei nº 2.241, de 1 de agosto de 2017 | 1 | 2017-08-02 to 2017-08-02 |
+| `lei-2017-02240` | Lei nº 2.240, de 21 de julho de 2017 | 1 | 2017-07-24 to 2017-07-24 |
+| `lei-2017-02239` | Lei nº 2.239, de 21 de julho de 2017 | 1 | 2017-07-24 to 2017-07-24 |
+| `lei-2017-02238` | Lei nº 2.238, de 4 de julho de 2017 | 1 | 2017-07-06 to 2017-07-06 |
+| `lc-2017-00021` | Lei Complementar nº 21, de 20 de junho de 2017 | 1 | 2017-06-22 to 2017-06-22 |
+| `lei-2017-02237` | Lei nº 2.237, de 6 de junho de 2017 | 1 | 2017-06-07 to 2017-06-07 |
+| `lei-2017-02236` | Lei nº 2.236, de 11 de abril de 2017 | 1 | 2017-04-12 to 2017-04-12 |
+| `lei-2017-02235` | Lei nº 2.235, de 6 de janeiro de 2017 | 1 | 2017-01-09 to 2017-01-09 |
+| `lei-2016-02234` | Lei nº 2.234, de 22 de dezembro de 2016 | 1 | 2016-12-27 to 2016-12-27 |
+| `lei-2016-02233` | Lei nº 2.233, de 16 de setembro de 2016 | 1 | 2016-09-21 to 2016-09-21 |
+| `lei-2016-02232` | Lei nº 2.232, de 16 de setembro de 2016 | 1 | 2016-09-21 to 2016-09-21 |
+| `lei-2016-02231` | Lei nº 2.231, de 16 de setembro de 2016 | 1 | 2016-09-21 to 2016-09-21 |
+| `lei-2016-02228` | Lei nº 2.228, de 10 de agosto de 2016 | 1 | 2016-08-11 to 2016-08-11 |
+| `lc-2016-00019` | Lei Complementar nº 19, de 15 de junho de 2016 | 1 | 2016-06-20 to 2016-06-20 |
+| `lei-2016-02226` | Lei nº 2.226, de 7 de junho de 2016 | 1 | 2016-06-09 to 2016-06-09 |
+| `lei-2016-02225` | Lei nº 2.225, de 31 de maio de 2016 | 1 | 2016-06-02 to 2016-06-02 |
+| `lei-2016-02224` | Lei nº 2.224, de 13 de maio de 2016 | 1 | 2016-05-17 to 2016-05-17 |
+| `lei-2016-02223` | Lei nº 2.223, de 13 de maio de 2016 | 1 | 2016-05-17 to 2016-05-17 |
+| `lei-2016-02221` | Lei nº 2.221, de 21 de março de 2016 | 1 | 2016-03-22 to 2016-03-22 |
+| `lc-2016-00018` | Lei Complementar nº 18, de 8 de março de 2016 | 1 | 2016-03-10 to 2016-03-10 |
+| `lei-2015-02220` | Lei nº 2.220, de 23 de dezembro de 2015 | 1 | 2015-12-28 to 2015-12-28 |
 
-The build made 350 commits:
+The build made 392 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 350 | first version of an act |
+| 392 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 350 laws in the record.
-- 700 tags.
+- 392 laws in the record.
+- 784 tags.
 
 ## Dates
 
@@ -397,7 +440,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `39781a2899c5ba5a647272fd0245458964e88b5927aa27118dfc8123f1eef8a5` (2901847 bytes).
+- Corpus: sha256 `1f5e6582ff8d2f70650447b9b1b32409a63825aaf37d4423e5424d4cca3a9673` (3227302 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -436,6 +479,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -446,6 +492,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
