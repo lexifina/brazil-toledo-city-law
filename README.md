@@ -1,5 +1,7 @@
 # Toledo (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Toledo, Paraná, Brazil, which global-law reads at `brazil/parana/toledo/acts/`.
+
 The municipal law of the Município de Toledo, Paraná (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
